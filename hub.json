@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://drive.google.com/uc?id=1WV8mklVtOHnJ2a0prVEBa9xTzvWJVjQr&export=download",
+    "type": "bigbed",
+    "name": "H3K27ac_GM12878",
+    "mode": "full",
+    "showOnHubLoad": true,
+    "options": {
+      "color": "#1f77b4",
+      "height": 50,
+      "backgroundColor": "#FFFFFF"
+    }
+  },
+  {
+    "url": "https://drive.google.com/uc?id=1rzVBGAMeF83jijIPi6WHCthXLhn2kDl5&export=download",
+    "type": "bigbed",
+    "name": "H3K27ac_K562",
+    "mode": "full",
+    "showOnHubLoad": true,
+    "options": {
+      "color": "#d62728",
+      "height": 50,
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+]
