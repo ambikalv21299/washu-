@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/ambikalv21299/washu-/main/ENCFF498JGL.bigBed",
+    "url": "https://washu-hosted.s3.amazonaws.com/ENCFF498JGL.bigBed",
     "type": "bigbed",
     "name": "H3K27ac_GM12878",
     "mode": "full",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "url": "https://raw.githubusercontent.com/ambikalv21299/washu-/main/H3K27ac_K562.bb.bigBed",
+    "url": "https://washu-hosted.s3.amazonaws.com/H3K27ac_K562.bigBed",
     "type": "bigbed",
     "name": "H3K27ac_K562",
     "mode": "full",
