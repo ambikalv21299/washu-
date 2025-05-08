@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://drive.google.com/uc?id=1WV8mklVtOHnJ2a0prVEBa9xTzvWJVjQr&export=download",
+    "url": "https://raw.githubusercontent.com/ambikalv21299/washu-/main/ENCFF498JGL.bigBed",
     "type": "bigbed",
     "name": "H3K27ac_GM12878",
     "mode": "full",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "url": "https://drive.google.com/uc?id=1rzVBGAMeF83jijIPi6WHCthXLhn2kDl5&export=download",
+    "url": "https://raw.githubusercontent.com/ambikalv21299/washu-/main/H3K27ac_K562.bb.bigBed",
     "type": "bigbed",
     "name": "H3K27ac_K562",
     "mode": "full",
